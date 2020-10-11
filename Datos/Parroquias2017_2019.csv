@@ -1,0 +1,917 @@
+prov_fall;cant_fall;parr_fall;codigo
+Azuay;Camilo Ponce Enriquez;Camilo Ponce Enriquez;11550
+Azuay;Chordeleg;Chordeleg;11150
+Azuay;Cuenca;Banos;10151
+Azuay;Cuenca;Cuenca;10150
+Azuay;Cuenca;El Batan;10103
+Azuay;Cuenca;El Vecino;10105
+Azuay;Cuenca;Huaynacapac;10107
+Azuay;Cuenca;Molleturo;10157
+Azuay;Cuenca;Monay;10109
+Azuay;Cuenca;Nulti;10158
+Azuay;Cuenca;Paccha;10160
+Azuay;Cuenca;Quingeo;10161
+Azuay;Cuenca;San Blas;10110
+Azuay;Cuenca;San Sebastian;10111
+Azuay;Cuenca;Santa Ana;10164
+Azuay;Cuenca;Sayausi;10165
+Azuay;Cuenca;Sinincay;10167
+Azuay;Cuenca;Sucre;10112
+Azuay;Cuenca;Tarqui;10168
+Azuay;Cuenca;Turi;10169
+Azuay;Cuenca;Valle;10170
+Azuay;Cuenca;Victoria Del Portete;10171
+Azuay;Cuenca;Yanuncay;10114
+Azuay;Giron;Giron;10250
+Azuay;Gualaceo;Gualaceo;10350
+Azuay;Gualaceo;Jadan;10353
+Azuay;Gualaceo;San Juan;10357
+Azuay;Nabon;Nabon;10450
+Azuay;Paute;El Cabo;10554
+Azuay;Paute;Guarainag;10556
+Azuay;Paute;Paute;10550
+Azuay;Paute;San Cristobal (Carlos Ordonez Lazo);10559
+Azuay;Paute;Tomebamba;10561
+Azuay;Pucara;San Rafael De Sharug;10652
+Azuay;Santa Isabel;Abdon Calderon (La Union);10851
+Azuay;Santa Isabel;Santa Isabel (Chaguarurco);10850
+Azuay;Sigsig;Sigsig;10950
+Bolivar;Caluma;Caluma;20650
+Bolivar;Chillanes;Chillanes;20250
+Bolivar;Chimbo;San Jose De Chimbo;20350
+Bolivar;Echeandia;Echeandia;20450
+Bolivar;Guaranda;Angel Polibio Chavez;20101
+Bolivar;Guaranda;Gabriel Ignacio Veintimilla;20102
+Bolivar;Guaranda;Guanujo;20152
+Bolivar;Guaranda;Guaranda;20150
+Bolivar;Guaranda;Julio E. Moreno (Catanahuan Grande);20153
+Bolivar;Guaranda;Salinas;20155
+Bolivar;Guaranda;San Luis De Pambil;20160
+Bolivar;Guaranda;Santafe (Santa Fe);20158
+Bolivar;Las Naves;Las Mercedes;20701
+Bolivar;Las Naves;Las Naves;20750
+Bolivar;San Miguel;Balsapamba;20551
+Bolivar;San Miguel;San Miguel;20550
+Canar;Azogues;Aurelio Bayas Martinez;30101
+Canar;Azogues;Azogues;30150
+Canar;Azogues;Borrero;30103
+Canar;Azogues;Cojitambo;30151
+Canar;Azogues;Javier Loyola (Chuquipata);30154
+Canar;Azogues;Luis Cordero;30155
+Canar;Biblian;Biblian;30250
+Canar;Biblian;Nazon (Cab. En Pampa De Dominguez);30251
+Canar;Canar;Canar;30350
+Canar;Canar;Honorato Vasquez (Tambo Viejo);30355
+Canar;Canar;Ingapirca;30356
+Canar;Canar;San Antonio;30358
+Canar;Canar;Ventura;30362
+Canar;Canar;Zhud;30361
+Canar;El Tambo;El Tambo;30550
+Canar;La Troncal;La Troncal;30450
+Canar;La Troncal;Manuel J. Calle;30451
+Canar;La Troncal;Pancho Negro;30452
+Canar;Suscal;Suscal;30750
+Carchi;Bolivar;Bolivar;40250
+Carchi;Bolivar;Los Andes;40252
+Carchi;Bolivar;Monte Olivo;40253
+Carchi;Bolivar;San Rafael;40255
+Carchi;Espejo;El Angel;40350
+Carchi;Espejo;San Isidro;40353
+Carchi;Mira;Mira (Chontahuasi);40450
+Carchi;Montufar;La Paz;40554
+Carchi;Montufar;San Gabriel;40550
+Carchi;Montufar;San Jose;40502
+Carchi;San Pedro De Huaca;Huaca;40650
+Carchi;Tulcan;El Carmelo (El Pun);40151
+Carchi;Tulcan;Gonzalez Suarez;40101
+Carchi;Tulcan;Julio Andrade (Orejuela);40153
+Carchi;Tulcan;Tulcan;40150
+Chimborazo;Alausi;Achupallas;60251
+Chimborazo;Alausi;Alausi;60250
+Chimborazo;Alausi;Guasuntos;60253
+Chimborazo;Alausi;Tixan;60260
+Chimborazo;Chambo;Chambo;60450
+Chimborazo;Colta;Columbe;60352
+Chimborazo;Cumanda;Cumanda;61050
+Chimborazo;Guamote;Cebadas;60651
+Chimborazo;Guamote;Guamote;60650
+Chimborazo;Guano;El Rosario;60701
+Chimborazo;Guano;Guano;60750
+Chimborazo;Guano;San Andres;60754
+Chimborazo;Guano;San Isidro De Patulu;60756
+Chimborazo;Pallatanga;Pallatanga;60850
+Chimborazo;Penipe;Penipe;60950
+Chimborazo;Riobamba;Calpi;60152
+Chimborazo;Riobamba;Flores;60154
+Chimborazo;Riobamba;Lican;60155
+Chimborazo;Riobamba;Licto;60156
+Chimborazo;Riobamba;Lizarzaburu;60101
+Chimborazo;Riobamba;Maldonado;60102
+Chimborazo;Riobamba;Punin;60158
+Chimborazo;Riobamba;Quimiag;60159
+Chimborazo;Riobamba;Riobamba;60150
+Chimborazo;Riobamba;San Juan;60160
+Chimborazo;Riobamba;San Luis;60161
+Chimborazo;Riobamba;Veloz;60104
+Chimborazo;Riobamba;Velasco;60103
+Cotopaxi;La Mana;Guasaganda (Cab. En Guasaganda Centro);50251
+Cotopaxi;La Mana;La Mana;50250
+Cotopaxi;Latacunga;11 De Noviembre (Ilinchisi);50157
+Cotopaxi;Latacunga;Alaques (Alaquez);50151
+Cotopaxi;Latacunga;Eloy Alfaro (San Felipe);50101
+Cotopaxi;Latacunga;Guaitacama (Guaytacama);50153
+Cotopaxi;Latacunga;Ignacio Flores (Parque Flores);50102
+Cotopaxi;Latacunga;Juan Montalvo (San Sebastian);50103
+Cotopaxi;Latacunga;La Matriz;50104
+Cotopaxi;Latacunga;Mulalo;50156
+Cotopaxi;Latacunga;Poalo;50158
+Cotopaxi;Latacunga;San Buenaventura;50105
+Cotopaxi;Latacunga;San Juan De Pastocalle;50159
+Cotopaxi;Latacunga;Tanicuchi;50161
+Cotopaxi;Latacunga;Toacaso;50162
+Cotopaxi;Pujili;Pujili;50450
+Cotopaxi;Pujili;Tingo;50456
+Cotopaxi;Pujili;Zumbahua;50458
+Cotopaxi;Salcedo;Antonio Jose Holguin (Santa Lucia);50551
+Cotopaxi;Salcedo;Cusubamba;50552
+Cotopaxi;Salcedo;Mulalillo;50553
+Cotopaxi;Salcedo;San Miguel;50550
+Cotopaxi;Saquisili;Canchagua;50651
+Cotopaxi;Saquisili;Saquisili;50650
+Cotopaxi;Sigchos;Chugchillan (Chugchilan);50751
+Cotopaxi;Sigchos;Sigchos;50750
+El Oro;Arenillas;Arenillas;70250
+El Oro;Arenillas;Carcabon;70255
+El Oro;Arenillas;Palmales;70254
+El Oro;Atahualpa;Paccha;70350
+El Oro;Balsas;Balsas;70450
+El Oro;El Guabo;Barbones (Sucre);70651
+El Oro;El Guabo;El Guabo;70650
+El Oro;El Guabo;Rio Bonito;70654
+El Oro;Huaquillas;Hualtaco;70703
+El Oro;Huaquillas;Huaquillas;70750
+El Oro;Machala;El Cambio;70151
+El Oro;Machala;El Retiro;70152
+El Oro;Machala;La Providencia;70101
+El Oro;Machala;Machala;70102
+El Oro;Machala;Nueve De Mayo;70104
+El Oro;Marcabeli;Marcabeli;70850
+El Oro;Pasaje;Buenavista;70951
+El Oro;Pasaje;Loma De Franco;70902
+El Oro;Pasaje;Pasaje;70950
+El Oro;Pasaje;Uzhcurrumi;70955
+El Oro;Pinas;La Susaya;71002
+El Oro;Pinas;Pinas;71050
+El Oro;Pinas;Saracay;71056
+El Oro;Portovelo;Portovelo;71150
+El Oro;Santa Rosa;Nuevo Santa Rosa;71205
+El Oro;Santa Rosa;Santa Rosa;71250
+El Oro;Zaruma;Huertas;71355
+El Oro;Zaruma;Zaruma;71350
+Esmeraldas;Atacames;Atacames;80650
+Esmeraldas;Atacames;Tonchigue;80653
+Esmeraldas;Atacames;Tonsupa;80654
+Esmeraldas;Eloy Alfaro;Maldonado;80256
+Esmeraldas;Eloy Alfaro;Valdez (Limones);80250
+Esmeraldas;Esmeraldas;5 De Agosto;80102
+Esmeraldas;Esmeraldas;Camarones (Cab. En San Vicente);80152
+Esmeraldas;Esmeraldas;Esmeraldas;80150
+Esmeraldas;Esmeraldas;Luis Tello (Las Palmas);80104
+Esmeraldas;Esmeraldas;Majua;80159
+Esmeraldas;Esmeraldas;San Mateo;80163
+Esmeraldas;Esmeraldas;Simon Plata Torres;80105
+Esmeraldas;Esmeraldas;Tachina;80166
+Esmeraldas;Esmeraldas;Vuelta Larga;80168
+Esmeraldas;Muisne;San Jose De Chamanga (Cab. En Cahamanga);80358
+Esmeraldas;Quininde;La Union;80455
+Esmeraldas;Quininde;Malimpia;80453
+Esmeraldas;Quininde;Rosa Zarate (Quininde);80450
+Esmeraldas;Quininde;Viche;80454
+Esmeraldas;Rioverde;Chontaduro;80751
+Esmeraldas;Rioverde;Montalvo (Cab En Horqueta);80754
+Esmeraldas;Rioverde;Rioverde;80750
+Esmeraldas;Rioverde;Rocafuerte;80755
+Esmeraldas;San Lorenzo;San Lorenzo;80550
+Exterior;Exterior;Exterior;0
+Galapagos;San Cristobal;Puerto Baquerizo Moreno;200150
+Galapagos;Santa Cruz;Puerto Ayora;200350
+Guayas;Alfredo Baquerizo Moreno;Alfredo Baquerizo Moreno (Jujan);90250
+Guayas;Balao;Balao;90350
+Guayas;Balzar;Balzar;90450
+Guayas;Colimes;Colimes;90550
+Guayas;Crnel. Marcelino Mariduena;Crnel. Marcelino Mariduena (San Carlos);92350
+Guayas;Daule;Banife;90603
+Guayas;Daule;Daule;90601
+Guayas;Daule;Emiliano Caicedo Marcos;90604
+Guayas;Daule;Juan Bautista Aguirre (Los Tintos);90652
+Guayas;Daule;La Aurora (Satelite);90602
+Guayas;Daule;Limonal;90654
+Guayas;Daule;Los Lojas (Enrique Baquerizo Moreno);90656
+Guayas;Duran;El Recreo;90702
+Guayas;Duran;Eloy Alfaro (Duran);90701
+Guayas;El Triunfo;El Triunfo;90950
+Guayas;Empalme;El Rosario;90852
+Guayas;Empalme;Guayas (Pueblo Nuevo);90851
+Guayas;Empalme;Velasco Ibarra (Cab. El Empalme);90850
+Guayas;Gnral. Antonio Elizalde;Gral. Antonio Elizalde (Bucay);92750
+Guayas;Guayaquil;Ayacucho;90101
+Guayas;Guayaquil;Carbo (Concepcion);90103
+Guayas;Guayaquil;Febres Cordero;90104
+Guayas;Guayaquil;Guayaquil;90150
+Guayas;Guayaquil;Juan Gomez Rendon (Progreso);90152
+Guayas;Guayaquil;Letamendi;90106
+Guayas;Guayaquil;Morro;90153
+Guayas;Guayaquil;Olmedo (San Alejo);90108
+Guayas;Guayaquil;Pascuales;90154
+Guayas;Guayaquil;Posorja;90156
+Guayas;Guayaquil;Sucre;90111
+Guayas;Guayaquil;Tarqui;90112
+Guayas;Guayaquil;Ximena;90114
+Guayas;Isidro Ayora;Isidro Ayora;92850
+Guayas;Lomas De Sargentillo;Lomas De Sargentillo;92450
+Guayas;Milagro;Milagro;91050
+Guayas;Naranjal;Jesus Maria;91151
+Guayas;Naranjal;Naranjal;91150
+Guayas;Naranjal;San Carlos;91152
+Guayas;Naranjal;Santa Rosa De Flandes;91153
+Guayas;Naranjal;Taura;91154
+Guayas;Naranjito;Naranjito;91250
+Guayas;Nobol;Narcisa De Jesus (Nobol);92550
+Guayas;Palestina;Palestina;91350
+Guayas;Pedro Carbo;Pedro Carbo;91450
+Guayas;Pedro Carbo;Sabanilla;91452
+Guayas;Playas;General Villamil (Playas);92150
+Guayas;Salitre;El Salitre (Las Ramas);91950
+Guayas;Salitre;General Vernaza (Dos Esteros);91951
+Guayas;Salitre;La Victoria (Nauza);91952
+Guayas;Samborondon;La Puntilla (Satelite);91602
+Guayas;Samborondon;Tarifa;91651
+Guayas;San Jacinto De Yaguachi;Gral. Pedro J. Montero (Boliche);92053
+Guayas;San Jacinto De Yaguachi;San Jacinto De Yaguachi;92050
+Guayas;San Jacinto De Yaguachi;Virgen De Fatima;92056
+Guayas;Santa Lucia;Santa Lucia;91850
+Guayas;Simon Bolivar;Simon Bolivar;92250
+Imbabura;Antonio Ante;Atuntaqui;100250
+Imbabura;Antonio Ante;San Fco. De Natabuela;100252
+Imbabura;Antonio Ante;San Roque;100254
+Imbabura;Cotacahi;Garcia Moreno (Llurimagua);100352
+Imbabura;Cotacahi;Imantag;103053
+Imbabura;Cotacahi;Sagrario;100301
+Imbabura;Ibarra;Ambuqui;100151
+Imbabura;Ibarra;Caranqui;100101
+Imbabura;Ibarra;Carolina;100153
+Imbabura;Ibarra;La Dolorosa Del Prionato;100105
+Imbabura;Ibarra;La Esperanza;100154
+Imbabura;Ibarra;Lita;100155
+Imbabura;Ibarra;Sagrario;100103
+Imbabura;Ibarra;Salinas;100156
+Imbabura;Ibarra;San Antonio;100157
+Imbabura;Ibarra;San Francisco;100104
+Imbabura;Ibarra;San Miguel De Ibarra;100150
+Imbabura;Otavalo;Doctor Miguel Egas Cabezas (Peguche);100451
+Imbabura;Otavalo;Eugenio Espejo (Calpaqui);100452
+Imbabura;Otavalo;Gonzalez Suarez;100453
+Imbabura;Otavalo;Jordan;100401
+Imbabura;Otavalo;Otavalo;100450
+Imbabura;Otavalo;San Jose De Quichinche;100455
+Imbabura;Otavalo;San Juan De Iluman;100456
+Imbabura;Otavalo;San Luis;100402
+Imbabura;Otavalo;San Pablo;100457
+Imbabura;Otavalo;San Rafael;100458
+Imbabura;Pimampiro;Mariano Acosta;100552
+Imbabura;Pimampiro;Pimampiro;100550
+Imbabura;San Miguel De Urcuqui;San Blas;100654
+Imbabura;San Miguel De Urcuqui;Tumbabiro;100655
+Imbabura;San Miguel De Urcuqui;Urcuqui;100650
+Loja;Celica;Celica;110450
+Loja;Celica;Cruzpamba (Cab En Carlos Bustamante);110451
+Loja;Catamayo;Catamayo;110301
+Loja;Catamayo;Catamayo (La Toma);110350
+Loja;Espindola;Amaluza;110650
+Loja;Gonzanama;Gonzanama;110750
+Loja;Gonzanama;Nambacola;110753
+Loja;Loja;Chuquiribamba;110152
+Loja;Loja;El Sagrario;110101
+Loja;Loja;Malacatos (Valladolid);110156
+Loja;Loja;San Sebastian;110102
+Loja;Loja;Sucre;110103
+Loja;Loja;Valle;110104
+Loja;Loja;Vilcabamba (Victoria);110161
+Loja;Loja;Yangana (Arsenio Castillo);110162
+Loja;Macara;Sabiango (La Capilla);110853
+Loja;Olemdo;La Tingue;111651
+Loja;Olemdo;Olmedo;111650
+Loja;Paltas;Catacocha;110901
+Loja;Puyango;Alamor;111050
+Loja;Saraguro;El Tablon;111152
+Loja;Saraguro;San Pablo De Tenta;111156
+Loja;Sozoranga;Sozoranga;111250
+Loja;Sozoranga;Tacamoros;111252
+Loja;Zapotillo;Paletillas;111354
+Loja;Zapotillo;Zapotillo;111350
+Los Rios;Baba;Baba;120250
+Los Rios;Baba;Isla De Bejucal;120252
+Los Rios;Babahoyo;Babahoyo;120150
+Los Rios;Babahoyo;Caracol;120152
+Los Rios;Babahoyo;Clemente Baquerizo;120101
+Los Rios;Babahoyo;Doctor Camilo Ponce;120102
+Los Rios;Babahoyo;Febres Cordero (Las Juntas) (Cab En Mata De Cacao).;120153
+Los Rios;Babahoyo;La Union;120155
+Los Rios;Babahoyo;Pimocha;120154
+Los Rios;Buena Fe;Patricia Pilar;121051
+Los Rios;Buena Fe;San Jacinto De Buena Fe;121001
+Los Rios;Mocache;Mocache;121250
+Los Rios;Montalvo;La Esmeralda;120351
+Los Rios;Montalvo;Montalvo;120350
+Los Rios;Palenque;Palenque;120950
+Los Rios;Puebloviejo;Puebloviejo;120450
+Los Rios;Puebloviejo;Puerto Pechiche;120451
+Los Rios;Puebloviejo;San Juan;120452
+Los Rios;Quevedo;24 De Mayo;120508
+Los Rios;Quevedo;La Esperanza;120555
+Los Rios;Quevedo;Quevedo;120550
+Los Rios;Quevedo;San Camilo;120502
+Los Rios;Quevedo;San Carlos;120553
+Los Rios;Quevedo;Siete De Octubre;120507
+Los Rios;Quevedo;Venus Del Rio Quevedo;120509
+Los Rios;Quevedo;Viva Alfaro;120510
+Los Rios;Quinsaloma;Quinsaloma;121350
+Los Rios;Urdaneta;Catarama;120650
+Los Rios;Urdaneta;Ricaurte;120651
+Los Rios;Valencia;Valencia;121101
+Los Rios;Valencia;La union;121102
+Los Rios;Valencia;Valencia;121150
+Los Rios;Ventanas;10 De Noviembre;120701
+Los Rios;Ventanas;Los Angeles;120754
+Los Rios;Ventanas;Ventanas;120702
+Los Rios;Ventanas;Zapotal;120752
+Los Rios;Vinces;Antonio Sotomayor (Cab. Playas De Vince;120851
+Los Rios;Vinces;Vinces;120850
+Manabi;24 De Mayo;Bellavista;131651
+Manabi;24 De Mayo;Noboa;131652
+Manabi;24 De Mayo;Sucre;131650
+Manabi;Bolivar;Calceta;130250
+Manabi;Chone;Boyaca;130351
+Manabi;Chone;Canuto;130352
+Manabi;Chone;Chone;130301
+Manabi;Chone;Ricaurte;130356
+Manabi;Chone;San Antonio;130357
+Manabi;Chone;Santa Rita;130302
+Manabi;El Carmen;4 De Diciembe;130402
+Manabi;El Carmen;El Carmen;130401
+Manabi;El Carmen;Wilfrido Loor Moreira (Maicito);130451
+Manabi;Flavio Alfaro;Flavio Alfaro;130550
+Manabi;Jama;Jama;132050
+Manabi;Jipijapa;America;130651
+Manabi;Jipijapa;El Anegado (Cab En Eloy Alfaro);130652
+Manabi;Jipijapa;Jipijapa;130650
+Manabi;Jipijapa;San Lorenzo De Jipijapa;130603
+Manabi;Junin;Junin;130750
+Manabi;Manta;Eloy Alfaro;130805
+Manabi;Manta;Los Esteros;130801
+Manabi;Manta;Manta;130850
+Manabi;Manta;San Lorenzo;130851
+Manabi;Manta;San Mateo;130803
+Manabi;Manta;Tarqui;130804
+Manabi;Montecristi;El Colorado;130903
+Manabi;Montecristi;La Pila;130952
+Manabi;Montecristi;Leonidas Proano;130905
+Manabi;Montecristi;Montecristi;130950
+Manabi;Olmedo;Olmedo;131850
+Manabi;Pajan;Campozano (La Palma De Pajan);131051
+Manabi;Pajan;Cascol;131052
+Manabi;Pajan;Pajan;131050
+Manabi;Pedernales;Atahualpa;131753
+Manabi;Pedernales;Cojimies;131751
+Manabi;Pedernales;Pedernales;131750
+Manabi;Pichincha;Barraganete;131151
+Manabi;Pichincha;Pichincha;131150
+Manabi;Pichincha;San Sebastian;131152
+Manabi;Portoviejo;12 De Marzo;130102
+Manabi;Portoviejo;18 De Octubre;130108
+Manabi;Portoviejo;Abdon Calderon (San Francisco);130151
+Manabi;Portoviejo;Andres De Vera;130106
+Manabi;Portoviejo;Colon;130103
+Manabi;Portoviejo;Crucita;130153
+Manabi;Portoviejo;Francisco Pacheco;130107
+Manabi;Portoviejo;Picoaza;130104
+Manabi;Portoviejo;Portoviejo;130150
+Manabi;Portoviejo;Pueblo Nuevo;130154
+Manabi;Portoviejo;San Pablo;130105
+Manabi;Portoviejo;San Placido;130156
+Manabi;Portoviejo;Simon Bolivar;130109
+Manabi;Puerto Lopez;Machalilla;131951
+Manabi;Rocafuerte;Rocafuerte;131250
+Manabi;San Vicente;San Vicente;132250
+Manabi;Santa Ana;Ayacucho;131351
+Manabi;Santa Ana;La Union;131353
+Manabi;Santa Ana;Lodana;131302
+Manabi;Santa Ana;San Pablo (Cab En Pueblo Nuevo);131355
+Manabi;Santa Ana;Santa Ana;131350
+Manabi;Santa Ana;Santa Ana De Vuelta Larga;131301
+Manabi;Sucre;Bahia De Caraquez;131401
+Manabi;Sucre;Charapoto;131453
+Manabi;Sucre;Leonidas Plaza Gutierrez;131402
+Manabi;Sucre;San Isidro;131457
+Manabi;Tosagua;Bachillero;131551
+Manabi;Tosagua;Tosagua;131550
+Morona Santiago;Gualaquiza;Bomboiza;140253
+Morona Santiago;Huamboya;Chiguaza;140751
+Morona Santiago;Limon Indanza;Gral. Leonidas Plaza Gutierrez;140350
+Morona Santiago;Limon Indanza;Indanza;140351
+Morona Santiago;Limon Indanza;San Miguel De Conchay;140356
+Morona Santiago;Logrono;Shimpis;141052
+Morona Santiago;Morona;General Proano;140153
+Morona Santiago;Morona;Macas;140150
+Morona Santiago;Morona;Rio Blanco;140164
+Morona Santiago;Morona;Sevilla Don Bosco;140157
+Morona Santiago;Morona;Sinai;140158
+Morona Santiago;Palora;Palora (Metzera);140450
+Morona Santiago;Santiago;Tayuza;140556
+Morona Santiago;Sucua;Huambi;140652
+Morona Santiago;Sucua;Sucua;140650
+Napo;Archidona;Archidona;150350
+Napo;Archidona;Cotundo;150352
+Napo;Carlos Julio Arrosemena Tola;Carlos Julio Arosemena Tola;150950
+Napo;El Chaco;El Chaco;150450
+Napo;El Chaco;Santa Rosa;150454
+Napo;Quijos;Baeza;150750
+Napo;Quijos;Cuyuja;150752
+Napo;Quijos;Papallacta;150753
+Napo;Tena;Ahuano;150151
+Napo;Tena;Chontapunta;150153
+Napo;Tena;Puerto Misahualli;150155
+Napo;Tena;Puerto Napo;150156
+Napo;Tena;San Juan De Muyuna;150158
+Napo;Tena;Tena;150150
+Orellana;La Joya De Los Sachas;Enokanqui;220351
+Orellana;La Joya De Los Sachas;La Joya De Los Sachas;220350
+Orellana;La Joya De Los Sachas;Lago San Pedro;220355
+Orellana;La Joya De Los Sachas;San Carlos;220353
+Orellana;Loreto;Avila (Cab En Huiruno);220451
+Orellana;Loreto;Loreto;220450
+Orellana;Loreto;San Jose De Dahuano;220454
+Orellana;Loreto;San Jose De Payamino;220453
+Orellana;Orellana;La Belleza;220158
+Orellana;Orellana;Nuevo Paraiso (Cab. En Union Chimborazo);220159
+Orellana;Orellana;Puerto Francisco De Orellana (El Coca);220150
+Orellana;Orellana;San Jose De Guayusa;220160
+Orellana;Orellana;San Luis De Armenia;220161
+Pastaza;Mera;Mera;160250
+Pastaza;Pastaza;Fatima;160155
+Pastaza;Pastaza;Pomona;160157
+Pastaza;Pastaza;Puyo;160150
+Pastaza;Pastaza;Simon Bolivar (Cab En Mushullacta);160162
+Pastaza;Santa Clara;Santa Clara;160350
+Pichincha;Cayambe;Azcazubi;170251
+Pichincha;Cayambe;Cangahua;170252
+Pichincha;Cayambe;Cayambe;170250
+Pichincha;Cayambe;Juan Montalvo;170203
+Pichincha;Cayambe;Olmedo (Pecillo);170253
+Pichincha;Cayambe;Oton;170224
+Pichincha;Cayambe;San Jose De Ayora;170256
+Pichincha;Mejia;Aloag;170351
+Pichincha;Mejia;Aloasi;170352
+Pichincha;Mejia;Cutuglahua;170353
+Pichincha;Mejia;El Chaupi;170354
+Pichincha;Mejia;Machachi;170350
+Pichincha;Mejia;Manuel Cornejo Astorga (Tandapi);170355
+Pichincha;Mejia;Tambillo;170356
+Pichincha;Mejia;Uyumbicho;170357
+Pichincha;Pedro Moncayo;La Esperanza;170451
+Pichincha;Pedro Moncayo;Tabacundo;170450
+Pichincha;Pedro Moncayo;Tupigachi;170454
+Pichincha;Pedro Vicente Maldonado;Pedro Vicente Maldonado;170850
+Pichincha;Puerto Quito;Puerto Quito;170950
+Pichincha;Quito;Alangasi;170151
+Pichincha;Quito;Amaguana;170152
+Pichincha;Quito;Atahualpa (Habaspamba);170153
+Pichincha;Quito;Belisario Quevedo;170101
+Pichincha;Quito;Calacali;170154
+Pichincha;Quito;Calderon (Carapungo);170155
+Pichincha;Quito;Carcelen;170102
+Pichincha;Quito;Centro Historico;170103
+Pichincha;Quito;Checa (Chilpa);170159
+Pichincha;Quito;Chilibulo;170107
+Pichincha;Quito;Chillogallo;170108
+Pichincha;Quito;Chimbacalle;170109
+Pichincha;Quito;Cochapamba;170104
+Pichincha;Quito;Comite Del Pueblo;170105
+Pichincha;Quito;Conocoto;170156
+Pichincha;Quito;Cotocollao;170106
+Pichincha;Quito;Cumbaya;170157
+Pichincha;Quito;El Condado;170110
+Pichincha;Quito;El Quinche;170160
+Pichincha;Quito;Gualea;170161
+Pichincha;Quito;Guamani;170111
+Pichincha;Quito;Guangopolo;170162
+Pichincha;Quito;Guayllabamba;170163
+Pichincha;Quito;Inaquito;170112
+Pichincha;Quito;Itchimbia;170113
+Pichincha;Quito;Kennedy;170115
+Pichincha;Quito;La Argelia;170116
+Pichincha;Quito;La Concepcion;170117
+Pichincha;Quito;La Ecuatoriana;170118
+Pichincha;Quito;La Ferroviaria;170119
+Pichincha;Quito;La Magdalena;170121
+Pichincha;Quito;La Mena;170122
+Pichincha;Quito;Llano Chico;170165
+Pichincha;Quito;Mariscal Sucre;170123
+Pichincha;Quito;Nanegal;170168
+Pichincha;Quito;Nanegalito;170169
+Pichincha;Quito;Nayon;170170
+Pichincha;Quito;Perucho;170174
+Pichincha;Quito;Pifo;170175
+Pichincha;Quito;Pintag;170176
+Pichincha;Quito;Pomasqui;170177
+Pichincha;Quito;Ponceano;170124
+Pichincha;Quito;Puembo;170179
+Pichincha;Quito;Puengasi;170125
+Pichincha;Quito;Quito;170150
+Pichincha;Quito;Quitumbe;170126
+Pichincha;Quito;Rumipamba;170127
+Pichincha;Quito;San Antonio;170180
+Pichincha;Quito;San Bartolo;170128
+Pichincha;Quito;San Isidro Del Inca;170129
+Pichincha;Quito;San Juan;170130
+Pichincha;Quito;Solanda;170131
+Pichincha;Quito;Tumbaco;170184
+Pichincha;Quito;Turubamba;170132
+Pichincha;Quito;Yaruqui;170185
+Pichincha;Ruminahui;San Rafael;170503
+Pichincha;Ruminahui;Sangolqui;170501
+Pichincha;San Miguel De Los Bancos;San Miguel De Los Bancos;170750
+Santa Elena;La Libertad;La Libertad;240250
+Santa Elena;Salinas;Anconcito;240351
+Santa Elena;Salinas;Salinas;240350
+Santa Elena;Salinas;Vicente Rocafuerte;240303
+Santa Elena;Santa Elena;Ballenita;240101
+Santa Elena;Santa Elena;Chanduy;240153
+Santa Elena;Santa Elena;Colonche;240152
+Santa Elena;Santa Elena;Manglaralto;240154
+Santa Elena;Santa Elena;Santa Elena;240150
+Santo Domingo de los Tsachilas;La Condordia;La Concordia;230250
+Santo Domingo de los Tsachilas;La Condordia;Monterrey;230251
+Santo Domingo de los Tsachilas;Santo Domingo;Abraham Calazacon;230101
+Santo Domingo de los Tsachilas;Santo Domingo;Alluriquin;230151
+Santo Domingo de los Tsachilas;Santo Domingo;Bomboli;230102
+Santo Domingo de los Tsachilas;Santo Domingo;Chiguilpe;230103
+Santo Domingo de los Tsachilas;Santo Domingo;El Esfuerzo;230156
+Santo Domingo de los Tsachilas;Santo Domingo;Luz De America;230153
+Santo Domingo de los Tsachilas;Santo Domingo;Puerto Limon;230152
+Santo Domingo de los Tsachilas;Santo Domingo;Rio Toachi;230104
+Santo Domingo de los Tsachilas;Santo Domingo;Rio Verde;230105
+Santo Domingo de los Tsachilas;Santo Domingo;San Jacinto Del Bua;230154
+Santo Domingo de los Tsachilas;Santo Domingo;Santo Domingo De Los Colorados;230106
+Santo Domingo de los Tsachilas;Santo Domingo;Valle Hermoso;230155
+Santo Domingo de los Tsachilas;Santo Domingo;Zaracay;230107
+Sucumbios;Cascales;Sevilla;210652
+Sucumbios;Cuyabeno;Tarapoa;210750
+Sucumbios;Gonzalo Pizarro;Gonzalo Pizarro;210252
+Sucumbios;Gonzalo Pizarro;Lumbaqui;210253
+Sucumbios;Lago Agrio;El Eno;210155
+Sucumbios;Lago Agrio;General Farfan;210153
+Sucumbios;Lago Agrio;Nueva Loja;210150
+Sucumbios;Lago Agrio;Santa Cecilia;210158
+Sucumbios;Putumayo;Palma Roja;210351
+Sucumbios;Shushufindi;San Pedro De Los Cofanes;210454
+Sucumbios;Shushufindi;Shushufindi;210450
+Sucumbios;Shushufindi;Siete De Julio;210455
+Tungurahua;Ambato;Ambato;180150
+Tungurahua;Ambato;Atahualpa (Chisalata);180152
+Tungurahua;Ambato;Atocha - Ficoa;180101
+Tungurahua;Ambato;Cunchibamba;180167
+Tungurahua;Ambato;Huachi Grande;180155
+Tungurahua;Ambato;Huachi Loreto;180104
+Tungurahua;Ambato;Huchi Chico;180103
+Tungurahua;Ambato;Izamba;180156
+Tungurahua;Ambato;Juan Benigno Vela;180157
+Tungurahua;Ambato;La Merced;180105
+Tungurahua;Ambato;Matriz;180107
+Tungurahua;Ambato;Pasa;180159
+Tungurahua;Ambato;Picaigua;180160
+Tungurahua;Ambato;Pilaguin (Pilahuin);180161
+Tungurahua;Ambato;Quisapincha (Quizapincha);180162
+Tungurahua;Ambato;San Francisco;180109
+Tungurahua;Ambato;Santa Rosa;180165
+Tungurahua;Ambato;Totoras;180166
+Tungurahua;Ambato;Unamuncho;180168
+Tungurahua;Banos De Agua Santa;Banos De Agua Santa;180250
+Tungurahua;Banos De Agua Santa;Ulba;180254
+Tungurahua;Cevallos;Cevallos;180350
+Tungurahua;Mocha;Mocha;180450
+Tungurahua;Mocha;Pinguili;180451
+Tungurahua;Quero;Yanayacu-Mochapata(Cab.En Yanayacu);180652
+Tungurahua;San Pedro De Pelileo;Chiquicha (Cab En Chiquicha Grande);180754
+Tungurahua;San Pedro De Pelileo;Cotalo;180753
+Tungurahua;San Pedro De Pelileo;Garcia Moreno (Chumaqui);180756
+Tungurahua;San Pedro De Pelileo;Guambalo (Huambalo);180757
+Tungurahua;San Pedro De Pelileo;Pelileo;180701
+Tungurahua;San Pedro De Pelileo;Pelileo Grande;180702
+Tungurahua;San Pedro De Pelileo;Salasaca;180758
+Tungurahua;Santiago De Pillaro;Presidente Urbina (Chagrapamba-Pa;180854
+Tungurahua;Santiago De Pillaro;San Miguelito;180857
+Tungurahua;Tisaleo;Tisaleo;180950
+Zamora Chinchipe;El Pangui;El Guismi;190651
+Zamora Chinchipe;El Pangui;Tundayme;190653
+Zamora Chinchipe;Palanda;Palanda;190850
+Zamora Chinchipe;Paquisha;Paquisha;190950
+Zamora Chinchipe;Yantzaza;Chicana;190551
+Zamora Chinchipe;Yantzaza;Los Encuentros;190553
+Zamora Chinchipe;Yantzaza;Yantzaza (Yanzatza);190550
+Zamora Chinchipe;Zamora;Zamora;190102
+Azuay;Cuenca;Bellavista;10101
+Azuay;Cuenca;Canaribamba;10102
+Azuay;Cuenca;Machangara;10108
+Azuay;Cuenca;Totoracocha;10113
+Azuay;Cuenca;Hermano Miguel;10115
+Azuay;Cuenca;Cumbe;10152
+Azuay;Cuenca;Chaucha;10153
+Azuay;Cuenca;Chiquintad;10155
+Azuay;Cuenca;Llacao;10156
+Azuay;Cuenca;Ricaurte;10162
+Azuay;Cuenca;San Joaquin;10163
+Azuay;Gualaceo;Zhidmad;10358
+Azuay;Gualaceo;Luis Cordero Vega;10359
+Azuay;Nabon;Cochapata;10451
+Azuay;Nabon;Nieves(Chaya);10453
+Azuay;Pucara;Pucara Cabecera Cantonal;10650
+Azuay;San Fernando;San Fernando Cabecera Cantonal;10750
+Azuay;Santa Isabel;Zhaglli(Shaglli);10853
+Azuay;Sigsig;Cuchil(Cutchil);10951
+Azuay;Sigsig;Gima;10952
+Azuay;Sigsig;Ludo;10954
+Azuay;Ona;San Felipe de Ona Cabecera Cantonal;11050
+Azuay;Ona;Susudel;11051
+Azuay;El Pan;El Pan Cabecera Cantonal;11250
+Azuay;Guachapala;Guachapala Cabecera Cantonal;11450
+Bolivar;Guaranda;Guanujo;20103
+Bolivar;Guaranda;Facundo Vela;20151
+Bolivar;Guaranda;Simiatug;20159
+Bolivar;Chillanes;San Jose del Tambo(Tambopamba) ;20251
+Bolivar;Chimbo;La Magdalena(Chapacoto);20353
+Bolivar;Chimbo;San Sebastian;20354
+Bolivar;Chimbo;Telimbela;20355
+Bolivar;San Miguel;Bilovan;20552
+Canar;Azogues;Azogues;30102
+Canar;Azogues;Guapan;30153
+Canar;Biblian;San Francisco de Sageo;30252
+Canar;Canar;Chorocopte;30352
+Canar;Canar;Juncal;30357
+Canar;Canar;Ducur;30363
+Canar;El Deleg;Solano;30651
+Canar;Tulcan;Tulcan;40102
+Canar;Tulcan;Maldonado;40154
+Canar;Tulcan;Tufino;40157
+Canar;Tulcan;El Chical;40159
+Carchi;Bolivar;Garcia Moreno;40251
+Carchi;Espejo;La Libertad(Alizo);40352
+Carchi;Mira;Jijon y Caamano(Cab. En Rio Blanco);40452
+Carchi;Mira;Juan Montalvo(San Ignacio de Quil);40453
+Carchi;Montufar;Gonzalez Suarez;40501
+Carchi;Montufar;Cristobal Colon;40551
+Carchi;San Pedro de Huaca;Mariscal Sucre;40651
+Cotopaxi;Latacunga;Latacunga Cabecera Cantonal;50150
+Cotopaxi;Latacunga;Belisario Quevedo(Guanailin);50152
+Cotopaxi;La Mana;El Carmen;50201
+Cotopaxi;La Mana;La Mana;50202
+Cotopaxi;La Mana;El Triunfo;50203
+Cotopaxi;Pangua;El Corazon Cabecera Cantonal;50350
+Cotopaxi;Pangua;Moraspungo;50351
+Cotopaxi;Pangua;Ramon Campana;50353
+Cotopaxi;Pujili;Angamarca;50451
+Cotopaxi;Pujili;Guancaje;50453
+Cotopaxi;Pujili;Tingo;50457
+Cotopaxi;Salcedo;Pansaleo;50555
+Cotopaxi;Saquisili;Cochapamba;50653
+Cotopaxi;Sigchos;Isinlivi;50752
+Chimborazo;Riobamba;Yaruquies;60105
+Chimborazo;Riobamba;Cubijies;60153
+Chimborazo;Alausi;Huigra;60254
+Chimborazo;Alausi;Multitud;60255
+Chimborazo;Alausi;Pistishi(Nariz del Diablo);60256
+Chimborazo;Colta;Cajabamba;60301
+Chimborazo;Colta;Sicalpa;60302
+Chimborazo;Colta;Villa la Union(Cajabamba) Cabecera Cantonal;60350
+Chimborazo;Colta;Juan de Velasco(Pangor);60353
+Chimborazo;Colta;Santiago de Quito(Cab. En San Antonio de Quito);60354
+Chimborazo;Chunchi;Chunchi Cabecera Cantonal;60550
+Chimborazo;Chunchi;Capzol;60551
+Chimborazo;Chunchi;Compud;60552
+Chimborazo;Chunchi;Gonzol;60553
+Chimborazo;Chunchi;Llagos;60554
+Chimborazo;Guamote;Palmira;60652
+Chimborazo;Guano;La Matriz;60702
+Chimborazo;Guano;Ilapo;60752
+Chimborazo;Guano;La Providencia;60753
+Chimborazo;Guano;San Gerardo de Pacaicaguan;60755
+Chimborazo;Penipe;San Antonio de Bayushig;60954
+Chimborazo;Penipe;La Candelaria;60955
+El Oro;Machala;Puerto Bolivar;70103
+El Oro;Machala;El cambio;70105
+El Oro;Machala;Machala Cabezera Cantonal y Provincial;70150
+El Oro;Arenillas;Chacras;70251
+El Oro;Chilla;Chilla Cabezera Cantonal;70550
+El Oro;El Guabo;La Ibera;70652
+El Oro;Huaquillas;Union Lojana;70705
+El Oro;Pasaje;Ochoa Leon (Matriz);70903
+El Oro;Pasaje;Tres Cerritos;70904
+El Oro;Pasaje;La Peana;70953
+El Oro;Pinas;La Matriz;71001
+El Oro;Santa Rosa;Santa Rosa;71201
+El Oro;Santa Rosa;Jumon (Satelite);71204
+El Oro;Santa Rosa;La avanzada;71253
+El Oro;Santa Rosa;Victoria;71256
+El Oro;Santa Rosa;Bellamaria;71257
+El Oro;Zaruma;Guanazan;71353
+El Oro;Las Lajas;La Victoria Cabezera Cantonal;71450
+Esmeraldas;Esmeraldas;Bartolome Ruiz (Cesar Franco Carrion);80101
+Esmeraldas;Esmeraldas;Esmeralda;80103
+Esmeraldas;Eloy Alfaro;Borbon;80253
+Esmeraldas;Eloy Alfaro;La Tola;80254
+Esmeraldas;Eloy Alfaro;Luis Vargas Torres (Cab. En Playas de Oro);80255
+Esmeraldas;Muisme;Muisme Cabecera Cantonal;80350
+Esmeraldas;Muisme;Bolivar;80351
+Esmeraldas;Muisme;San Francisco;80356
+Esmeraldas;Muisme;San Gregorio;80357
+Esmeraldas;Quininde;Cube;80451
+Esmeraldas;San Lorenzo;Calderon;80553
+Esmeraldas;San Lorenzo;Carondelet;80554
+Esmeraldas;San Lorenzo;Tambillo;80561
+Esmeraldas;Atacames;La Union;80651
+Esmeraldas;Atacames;Sua (Cab. En la Bocana);80652
+Esmeraldas;Rioverde;Lagarto;80753
+Guayas;Guayaquil;Garcia Moreno;90105
+Guayas;Guayaquil;Rocafuerte;90110
+Guayas;Guayaquil;Urdaneta;90113
+Guayas;Guayaquil;Pascuales;90115
+Guayas;Guayaquil;Puna;90157
+Guayas;Guayaquil;Tenguel;90158
+Guayas;Daule;Magro;90605
+Guayas;Daule;Padre Juan Bautista Aguirre;90606
+Guayas;Daule;Daule Cabecera Cantonal;90650
+Guayas;Daule;Laurel;90653
+Guayas;Duran;Eloy Alfaro(Duran) Cabecera Cantonal;90750
+Guayas;Milagro;Mariscal Sucre (Huaques);91053
+Guayas;Milagro;Roberto Astudillo (Cab. En Sucre de Venecia);91054
+Guayas;Pedro Carbo;Valle de la Virgen;91451
+Guayas;Samborondon;Samborondon;91601
+Guayas;Samborondon;Samborondon Cabecera Cantonal;91650
+Guayas;Salitre;Junquillal;91953
+Guayas;San Jacinto de Yaguachi;Yaguachi  Viejo (Cone);92055
+Guayas;Simon Bolivar;Coronel Lorenzo de Garaicoa (Pedregal);92251
+Imbabura;Ibarra;Guayaquil de Alpachaca;100102
+Imbabura;Antonio Ante;Andrade Marin (Lourdes);100201
+Imbabura;Antonio Ante;Atuntaqui;100202
+Imbabura;Antonio Ante;Imbaya (San Luis de Cobuendo);100251
+Imbabura;Antonio Ante;San Jose de Chaltura;100253
+Imbabura;Cotacachi;San Francisco;100302
+Imbabura;Cotacachi;Cotacachi Cabecera Cantonal;100350
+Imbabura;Cotacachi;Apuela;100351
+Imbabura;Cotacachi;Imantag;100353
+Imbabura;Cotacachi;Penaherrera;100354
+Imbabura;Cotacachi;Quiroga;100356
+Imbabura;Otavalo;Selva Alegre(Cab. En San Miguel de Pamplona);100459
+Loja;Loja;Carigan;110105
+Loja;Loja;Loja Cabecera Cantonal y Capital Provincial;110150
+Loja;Loja;Gualel;110154
+Loja;Loja;San Lucas;110157
+Loja;Loja;Taquil (Miguel Riofrio);110160
+Loja;Calvas;Cariamanga;110201
+Loja;Calvas;Chile;110202
+Loja;Calvas;Cariamanga Cabecera Cantonal;110250
+Loja;Calvas;Colaisaca;110251
+Loja;Catamayo;San Jose;110302
+Loja;Catamayo;El Tambo;110351
+Loja;Catamayo;San Pedro de la Bendita;110353
+Loja;Chaguarpamba;Chaguarpamba;110550
+Loja;Espindola;Jimbura;110652
+Loja;Espindola;Santa Teresita;110653
+Loja;Paltas;Lourdes;110902
+Loja;Paltas;Catacocha;110950
+Loja;Paltas;Orianga;110956
+Loja;Puyango;El Arenal;111052
+Loja;Puyango;Vicentino;111055
+Loja;Saraguro;Urdaneta (Paquishapa);111159
+Los Rios;Babahoyo;Barreiro;120103
+Los Rios;Babahoyo;El Salto;120104
+Los Rios;Baba;Guare;120251
+Los Rios;Quevedo;Quevedo;120501
+Los Rios;Quevedo;Guayacan;120504
+Los Rios;Quevedo;San Cristobal;120506
+Los Rios;Ventanas;Ventanas;120750
+Los Rios;Vinces;Balzar de Vinces;120801
+Los Rios;Vinces;Vinces Central;120802
+Los Rios;Buena Fe;San Jacinto de Buena Fe;121050
+Manabi;Portoviejo;Portoviejo;130101
+Manabi;Portoviejo;Alhajuela (Bajo grande);130152
+Manabi;Portoviejo;Riochico (Rio Chico);130155
+Manabi;Bolivar;Membrillo;130251
+Manabi;Bolivar;Quiroga;130252
+Manabi;Chone;Chone;130350
+Manabi;Chone;Chibunga;130354
+Manabi;Chone;Eloy Alfaro;130355
+Manabi;El Carmen;El carmen;130450
+Manabi;El Carmen;San Pedro de Suma;130452
+Manabi;Jipijapa;Miguel Inocencio Parrales y Guale;130602
+Manabi;Jipijapa;Pedro Pablo Gomez;130657
+Manabi;Jipijapa;Puerto de Cayo;130658
+Manabi;Manta;Manta;130802
+Manabi;Manta;Santa Marianita (Boca de Pacoche);130852
+Manabi;Montecristi;Montecristi;130902
+Manabi;Pajan;Guale;131053
+Manabi;Santa Ana;Honorato Vasquez (Cab. En Vasquez);131352
+Manabi;Sucre;Bahia de Caraquez;131450
+Manabi;Pedernales;10 de Agosto;131752
+Manabi;Puerto Lopez;Puerto Lopez;131950
+Manabi;Jaramijo;Jaramijo;132150
+Manabi;San Vicente;Canoa;132251
+Morona Santiago;Gualaquiza;Gualaquiza;140201
+Morona Santiago;Gualaquiza;Mercedes Molina;140202
+Morona Santiago;Gualaquiza;Gulaquiza;140250
+Morona Santiago;Gualaquiza;El Rosario;140255
+Morona Santiago;Gualaquiza;El Ideal;140258
+Morona Santiago;Limon Indaza;San Antonio (Cab. en San Antonio Centro);140353
+Morona Santiago;Limon Indaza;Yunganza (Cab. en el Rosario);140358
+Morona Santiago;Palora;Sangay (Cab. en Nayamanaca);140454
+Morona Santiago;Santiago;Santiago de Mendez;140550
+Morona Santiago;Santiago;Patuca;140553
+Morona Santiago;Huamboya;Huamboya;140750
+Morona Santiago;San Juan Bosco;San Juan Bosco;140850
+Morona Santiago;Taisha;Taisha;140950
+Morona Santiago;Taisha;Tuutinentza;140953
+Morona Santiago;Logrono;Logrono;141050
+Morona Santiago;Logrono;Yaupi;141051
+Morona Santiago;Tiwintza;San Jose de Morona;141251
+Napo;Archidona;Hatun Sumaku;150356
+Napo;El Chaco;Gonzalo Diaz de Pineda (El Bombon);150451
+Pastaza;Pastaza;Veracruz (Cab. en Indillama);160165
+Pastaza;Mera;Madre Tierra;160251
+Pastaza;Santa Clara;San Jose;160351
+Pichincha;Quito;Jipijapa;170114
+Pichincha;Quito;La Libertad;170120
+Pichincha;Quito;Lloa;170166
+Pichincha;Quito;Nono;170171
+Pichincha;Quito;Pacto;170172
+Pichincha;Quito;Puellaro;170178
+Pichincha;Quito;San Jose de Minas;170181
+Pichincha;Quito;Tababala;170183
+Pichincha;Quito;Zambiza;170186
+Pichincha;Cayambe;Cayambe;170202
+Pichincha;Cayambe;Oton;170254
+Pichincha;Cayambe;Santa Rosa de Cuzubamba;170255
+Pichincha;Pedro Moncayo;Malchingui;170452
+Pichincha;Pedro Moncayo;Topachi;170453
+Pichincha;Ruminahui;Sangolqui;170550
+Pichincha;Ruminahui;Rumipamba;170552
+Tungurahua;Ambato;La Peninsula;180106
+Tungurahua;Ambato;Pishilata;180108
+Tungurahua;Ambato;Ambatillo;180151
+Tungurahua;Ambato;Augusto N. Martinez (Mundugleo);180153
+Tungurahua;Ambato;Constantino Fernandez (Cab. En Cullitahua);180154
+Tungurahua;Ambato;Montalvo;180158
+Tungurahua;Ambato;San Bartolome de Pinllog;180163
+Tungurahua;Patate;Los Andes (Cab. En Poatug);180552
+Tungurahua;Patate;Sucre (Cab. En Sucre-Patate Urcu);180553
+Tungurahua;Quero;Quero;180650
+Tungurahua;San Pedro de Pelileo;Pelileo;180750
+Tungurahua;San Pedro de Pelileo;Benitez (Pachanlica);180751
+Tungurahua;San Pedro de Pelileo;Bolivar;180752
+Tungurahua;Santiago de Pillaro;Pillaro;180850
+Tungurahua;Santiago de Pillaro;Emilio Maria Teran (Rumipamba);180852
+Tungurahua;Santiago de Pillaro;San Andres;180855
+Tungurahua;Tisaleo;Quinchicoto;180951
+Zamora Chinchipe;Zamora;Zamora;190150
+Zamora Chinchipe;Zamora;Cumbaratza;190151
+Zamora Chinchipe;Zamora;Guadalupe;190152
+Zamora Chinchipe;Zamora;Sabanilla;190155
+Zamora Chinchipe;Chinchipe;Zumba;190250
+Zamora Chinchipe;Chinchipe;Chito;190251
+Zamora Chinchipe;Chinchipe;El Chorro;190252
+Zamora Chinchipe;Chinchipe;San Andres ;190259
+Zamora Chinchipe;Nangaritza;Guayzimi;190350
+Zamora Chinchipe;Nangaritza;Nuevo Paraiso;190352
+Zamora Chinchipe;El Pangui;El Pangui;190650
+Zamora Chinchipe;Centinela del Condor;Zumbi;190750
+Sucumbios;Lago Agrio;Pacayacu;210156
+Sucumbios;Lago Agrio;Jambeli;210157
+Sucumbios;Gonzalo Pizarro;Lumbaqui;210250
+Sucumbios;Gonzalo Pizarro;El Reventador;210251
+Sucumbios;Gonzalo Pizarro;Puerto Libre;210254
+Sucumbios;Putumayo;Puerto el Carmen del Putumayo;210350
+Sucumbios;Shushufindi;San Roqui (Cab. En San Vicente);210453
+Sucumbios;Cascales;El Dorado de Cascales;210650
+Sucumbios;Cuyabeno;Aguas Negras;210752
+Orellana;Orellana;Dayuma;220151
+Orellana;Orellana;Alejandro Labaka;220153
+Orellana;Aguarico;Tiputini;220254
+Orellana;La Joya de los Sachas;San Sebastian del Coca;220354
+Orellana;La Joya de los Sachas;Union Milagrena;220358
+Orellana;Loreto;San Vicente de Huaticocha;220455
+Santo Domingo de los Tsachilas;Santo Domingo;Santo Domingo de los Colorados;230150
+Santo Domingo de los Tsachilas;Santo Domingo;Santa Maria del Toachi;230157
+Santo Domingo de los Tsachilas;La Concordia;Las Villegas;230252
+Santa Elena;Santa Elena;Santa Elena;240102
+Santa Elena;Santa Elena;Atahualpa;240151
+Santa Elena;Santa Elena;San Jose de Ancon;240156
+Santa Elena;Salinas;Santa Rosa;240304
